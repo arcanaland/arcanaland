@@ -1,6 +1,6 @@
 # Arcana Land AI Policy
 
-Arcana Land's goal of providing free and open resources, standards and tooling for all things tarot is an ambitious one. Creating detailed specifications, shared libraries, command-line tools, GUI applications, curated sets of assets and data plus packaging and distribution of all of the above is a large amount of work for a single person working on it unpaid as a hobby.
+Arcana Land's goal of providing free and open-source resources, standards and tooling for all things tarot is an ambitious one. Creating detailed specifications, shared libraries, command-line tools, GUI applications, curated sets of assets and data plus packaging and distribution of all of the above is a large amount of work for a single person working on it unpaid as a hobby.
 
 Because of this, LLMs are used in this project, but in a very narrow scope. Essentially, the goal is that any piece of art presented to the user was created by a human and any text presented to the user was written by a human.
 
