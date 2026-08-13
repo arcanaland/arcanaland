@@ -1,4 +1,6 @@
-# Notice to Rights Holders
+Arcana Land provides open standards, tools and resources for exploring digital tarot decks and associated esoterica. Our goal is to make digital tarot accessible, open and free.
+
+## Notice to Rights Holders
 
 The Arcana Land organization respects the rights of anyone who creates or publishes tarot artwork. Our specifications include a comprehensive framework for copyright and licensing based on [RightsStatements.org](https://rightsstatements.org/page/1.0/?language=en) statements and [SPDX](https://spdx.dev) standards and we go out of our way to ensure that we follow all applicable laws in jurisdictions in which we operate.
 
