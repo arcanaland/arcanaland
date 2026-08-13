@@ -22,7 +22,7 @@ All text that is mainly meant for humans to read (including this document!) must
 >
 > If anyone is willing to write English alt text (or in any language) for the traditional 78 cards and release it under a CC license please contact me or feel free to open a PR!
 
-## 3. Generated Code and Prose Intended Mostly for Machines Allowed
+## 3. Generated Code and Text Intended Mostly for Machines Allowed
 
 ### 3.1 Code
 
