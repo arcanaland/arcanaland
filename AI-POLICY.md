@@ -6,13 +6,18 @@ Because of this, LLMs are used in this project, but in a very narrow scope. Esse
 
 Golden rule: an end-user should never see a piece of text or art created by a machine.
 
-> Note: this policy document sidesteps the ethical concerns of a humanity-scale plagiarism machine powered by fossil fuels within a socioeconomic context where the means of production are held by a tiny fraction of individuals whose apparent primary motivation is deceitful and grotesque self-interest. Simply refusing to use these tools (in ways in which it is considered not distasteful) will not address these horrors.
+> [!NOTE]
+> This policy document sidesteps the ethical concerns of a humanity-scale plagiarism machine powered by fossil fuels within a socioeconomic context where the means of production are held by a tiny fraction of individuals whose apparent primary motivation is deceitful and grotesque self-interest. Simply refusing as an individual to use these tools (in ways in which it is considered not distasteful) will not address these systemic horrors.
 
 ## 1. Generated Art Strictly Prohibited
 
 Every piece of art in every Arcana Land repo is created by a human. This includes app logos, website assets, banners and any other artwork related to Arcana Land projects.
 
 This rule also extends to any deck that is included in its set of reference decks.
+
+Arcana Land is a signatory of the [Statement on AI Training](https://www.aitrainingstatement.org/):
+
+> “The unlicensed use of creative works for training generative AI is a major, unjust threat to the livelihoods of the people behind those works, and must not be permitted.”
 
 ## 2. Generated Text Intended for Humans Prohibited
 
